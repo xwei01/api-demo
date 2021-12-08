@@ -1,4 +1,4 @@
-# ENUM(2019-11-04)
+# ENUM(2021-21-08)
 
 ##### OrderStatus:
 
@@ -58,4 +58,19 @@
 ##### PriceAdjustType
 ```
 [VALUE,PERCENTAGE]
+```
+
+##### MakingRestriction
+```
+[NORMAL,OFF]
+```
+
+##### MakingDiffType
+```
+[MID,BOB]
+```
+
+##### SimulateType
+```
+[DEFAULT,ITO]
 ```
